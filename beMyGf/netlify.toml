@@ -1,0 +1,6 @@
+[[redirects]]
+from = "/*"
+to = "/proposal.html" 
+status = 200
+
+
